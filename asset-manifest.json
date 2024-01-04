@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Esakkiselvamgit07/profile/static/css/main.886327d8.css",
-    "main.js": "/Esakkiselvamgit07/profile/static/js/main.8aef6067.js",
-    "index.html": "/Esakkiselvamgit07/profile/index.html",
-    "main.886327d8.css.map": "/Esakkiselvamgit07/profile/static/css/main.886327d8.css.map",
-    "main.8aef6067.js.map": "/Esakkiselvamgit07/profile/static/js/main.8aef6067.js.map"
+    "main.css": "/profile/static/css/main.886327d8.css",
+    "main.js": "/profile/static/js/main.8aef6067.js",
+    "index.html": "/profile/index.html",
+    "main.886327d8.css.map": "/profile/static/css/main.886327d8.css.map",
+    "main.8aef6067.js.map": "/profile/static/js/main.8aef6067.js.map"
   },
   "entrypoints": [
     "static/css/main.886327d8.css",

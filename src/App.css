@@ -1,0 +1,215 @@
+
+
+.profile{
+    height: 100%;
+    /* width: 100vh; */
+    display: flex;
+}
+.box1{
+    height: 100%;
+    width: 30%;
+    background-color:#D0D4CA;
+    text-align: left;
+    padding-left: 5px;
+    font-size: 15px;
+}
+.start{
+        text-align: center;
+        
+    >img{
+       text-align: center;
+       height: 80px;
+       width: 80px;
+       border-radius: 50px;
+       margin-top: 10px;
+
+   }
+  >h3{
+     text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+       font-size: 15px;
+       margin: 0px;
+   }
+   >p{
+    text-align: center;
+       font-size: 15px;
+      
+   }}
+
+.text{
+ text-align: left;
+ padding-left: 5px;    
+ >p{
+    >i{
+        position: relative;
+        top: 1px;
+        bottom: 5px;
+        font-size: 15px;
+    }
+ }
+}
+.social{
+    text-align: left;
+    padding-left: 5px;
+    top: 80px;
+
+    >p{
+        >i{
+            position: relative;
+            top: 1px;
+            bottom: 5px;
+        }
+     }
+}
+.Education{
+    padding-left: 5px;
+    padding-top: 10px;
+    text-align: left;
+  >h5{
+    padding-left: 25px;
+  } 
+}
+.edcon{
+    display: flex;
+}
+.edimg{
+    padding-right: 1rem;
+}
+
+.edbul{
+    display: block;
+     width: 16px;
+     height: 16px;
+     background-color:gray;
+     border-radius: 50%;
+     margin-top: 1.5rem;
+   }
+   
+   .edline {
+       display: block;
+       width: 2px;
+       height: 100%;
+       background-color:gray;
+       transform: translate(7px, 0);
+   }
+   .edde{
+    display: flex;
+    flex-direction: column;
+   }
+
+.file{
+    text-align: left;
+    padding-left: 5px;
+
+}
+.skill{
+    text-align: left;
+    padding-left: 5px;
+ >ul{
+    padding-left: 20px;
+    columns: 2;
+    >li{
+        padding: 5px;
+    }
+}
+} 
+.box2{
+    height: 100%;
+    width: 70%;
+    background-color: rgb(255, 255, 255);
+    text-align:left ;
+    padding-left: 10px;
+    font-size: 15px;
+
+}
+.Experince{
+    padding-left: 5px;
+    padding-top: 10px;
+    text-align: left;
+  >h5{
+    padding-left: 25px;
+  }
+  >p{
+    font-size: 13px;
+    padding-left: 28px;
+      
+
+}
+}
+.certificates{
+    >p{
+        font-size: 13px;
+    }
+}
+.ref{
+
+    padding-top: 5px;
+    >ul{
+        columns: 2;
+        list-style: none;
+        padding-left:0PX ;
+        font-size: 10px;
+
+        >li{
+            text-align: left;
+            padding: 2px;
+
+    }
+    }
+}
+.li1{
+    font-size: 15PX;
+    font-size: larger;
+    font-style:unset;
+}
+.lang{
+    padding-top: 20px;
+    text-align: left;
+    padding-left: 2px;
+ >ul{
+    padding-left: 20px;
+    columns: 3;
+    >li{
+      padding-left: 0px;
+    }
+}
+} 
+.int{
+  padding-top: 20px;
+    >ul{
+        columns: 4;
+        list-style: none;
+    }
+}
+.i1{
+   
+    padding-left: 10px;
+}
+.i2{
+   
+    padding-left: 12px;
+}.i3{
+   
+    padding-left: 8px;
+}.i4{
+   
+    padding-left: 12px;
+}
+
+ /* .edbul{
+ display: block;
+  width: 16px;
+  height: 16px;
+  background-color: var(--text-color-light);
+  border-radius: 50%;
+  margin-top: 1.5rem;
+}
+
+.edline {
+    display: block;
+    width: 2px;
+    height: 100%;
+    background-color: var(--text-color-light);
+    transform: translate(7px, 0);
+}  */
+
